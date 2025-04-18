@@ -10,7 +10,7 @@ My current projects include:
 ---
 
 ### 🛠️ Technologies & Tools
-- 🎮 VScode
+- 🎮 VScode, replit,  godot
 - 💻 Javascript, Python, C, Html
 - 🛠️ Github
 
