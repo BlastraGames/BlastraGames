@@ -4,7 +4,7 @@
 - **Game Development:** Creating engaging video games.
 
 ## 🎯 Current Focus
-Our current projects include:
+My current projects include:
 - 🌟 **What The Frogg**: a rage game based off of frogger
 
 ---
