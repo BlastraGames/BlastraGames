@@ -1,23 +1,22 @@
-# 👾 BlastraGames'
+#  {BlastraGames}
 
-## 🕹️ What I Do
-- **Game Development:** Creating engaging video games.
+## > What I Do
+- > **Game Development:** Creating engaging video games.
 
-## 🎯 Current Focus
-My current projects include:
-- 🌟 **What The Frogg**: a rage game based off of frogger
-
----
-
-### 🛠️ Technologies & Tools
-- 🎮 VScode, replit,  godot
-- 💻 Javascript, Python, C, Html
-- 🛠️ Github
+## >  Current Focus
+- >  **What The Frogg**: a rage game based off of frogger
 
 ---
 
-## 💡 Fun Facts
-- 🎮 Ive been coding since i was 4 years old
+### >  Technologies & Tools
+- >  VScode, replit,  godot
+- >  Javascript, Python, C, Html
+- >  Github
+
+---
+
+## > Fun Facts
+-  Ive been coding since i was 4 years old
 
 ---
 <!---
