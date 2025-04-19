@@ -1,7 +1,8 @@
 #  {BlastraGames}
 
 ## > What I Do
-- > **Game Development:** Creating engaging video games.
+- > **Game Development**
+- > **Web Development**
 
 ## >  Current Focus
 - >  **What The Frogg**: a rage game based off of frogger
@@ -9,7 +10,7 @@
 ---
 
 ### >  Technologies & Tools
-- >  VScode, replit,  godot
+- >  VScode, replit, Codepen, godot
 - >  Javascript, Python, C, Html
 - >  Github
 
