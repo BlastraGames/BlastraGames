@@ -1,27 +1,21 @@
-#  {BlastraGames}
+#  BlastraGames
 
 ## > What I Do
 - > **Game Development**
 - > **Web Development**
 
-## >  Current Focus
-- >  **What The Frogg**: a rage game based off of frogger
-
 ---
 
 ### >  Technologies & Tools
-- >  VScode, replit, Codepen, godot
-- >  Javascript, Python, C, Html
-- >  Github
+- >  VScode, Replit, Codepen.
+- >  Javascript, Python, C, Html, css.
+- >  Github.
+- >  Chromebook (its pretty good for programing actual).
 
 ---
 
 ## > Fun Facts
--  Ive been coding since i was 4 years old
--  You can visit ny website at https://codepen.io/imBlastra/full/raaVEYj
+- > Ive been coding since i was 4 years old.
+- > You can visit ny website at https://codepen.io/imBlastra/full/raaVEYj
 
 ---
-<!---
-BlastraGames/BlastraGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
